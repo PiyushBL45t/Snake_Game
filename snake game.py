@@ -1,5 +1,5 @@
 # importing the important modules in the program
-# the main modules is turtle asit specifically used for making small games
+# the main modules is turtle as it is usually used for making small games with python.
 
 import turtle
 import time
